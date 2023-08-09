@@ -1,0 +1,1 @@
+En el aclaratorio del desafío en el punto 7, se pide que se valide que 'solo se acepte positivos' en los inputs numericos. Consultando con Pablo en la tutoria, esto se interpreta con que el valor sea mayor o igual a 0, o sea, distinto a un valor negativo.
